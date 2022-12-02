@@ -10,6 +10,6 @@ package vectores;
  */
 public class Vectores1 {
     public static void main(String[] args) {
-        
+        System.out.println("hola");
     }
 }
