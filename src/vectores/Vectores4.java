@@ -16,7 +16,7 @@ public class Vectores4 {
         Scanner teclado = new Scanner(System.in);
         
         
-        int[] vector = {1,2,3,4,5,6,7,8,9,11};
+        int[] vector = {1,2,412,4,5,6,7,8,10,11};
         
 //        int[] vector = new int[10];
 //        
@@ -29,6 +29,8 @@ public class Vectores4 {
         for (int i = 0; i < vector.length; i++) {
             if (vector[i]%2 == 0) {
                 System.out.println(vector[i]+" es par y esta en la posicion "+ i);
+            } else {
+                System.out.println(vector[i]+" es impar y esta en la posicion "+i);
             }
         }
     }

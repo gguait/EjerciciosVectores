@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package vectores;
 
 import java.util.Scanner;
@@ -11,6 +7,9 @@ import java.util.Scanner;
  * @author Pablo
  */
 public class Vectores3 {
+//        Escribe un programa que permita introducir un vector de 20 elementos
+//        numéricos y visualizarlos de cuatro en cuatro.
+    
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         
