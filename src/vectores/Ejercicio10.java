@@ -4,7 +4,7 @@
  */
 package vectores;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 /**
  *
@@ -15,11 +15,10 @@ public class Ejercicio10 {
 //        elementos, visualizar e indicar luego si hay o no algún elemento
 //        repetido. En ese caso indicar cuáles son y la posición que ocupan.
         public static void main(String[] args) {
-        Scanner teclado = new Scanner(System.in);
+//        Scanner teclado = new Scanner(System.in);
         
         
-        int[] vector = {76,38,40,15,80,85,33,33,51,19,20,87,39,44,47,75,86,44,40,69};
-        int contador = 0;
+        int[] vector = {76,38,40,15,80,85,33,33,33,19,20,87,39,44,47,75,86,44,40,69};
 //        int[] vector = new int[20];
 //        
 //        System.out.println("Introduce 20 elementos numericos");
